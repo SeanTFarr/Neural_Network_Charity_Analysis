@@ -31,7 +31,7 @@ This yeilded the following results
 
 <img src=Resources\Images\Charity.jpg>
 
-at 65.5%, I needed to optimize the model 
+at 61.5%, I needed to optimize the model. 
 
 By adjusting the number of bins in the "APPLICATION_TYPE" and "CLASSIFICATION" columns I was trying to reduce some "noise"
 
@@ -64,4 +64,4 @@ however it seemed to be getting overfit and the accuracy dropped
 I did not reach the desired 75% target model performance.
 
 ## Summary: 
-The overall results of the deep learning model fell short of our target. I am confident though that with further cleaning of the data, I could hit it without using too many layers(more is not always better). 
+The overall results of the deep learning model fell short of our target. I am confident though that with further cleaning of the data(I mut have missed something in it) I could hit it by using two layers and, if necessary, increasing the neuron count.
