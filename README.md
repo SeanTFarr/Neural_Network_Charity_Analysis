@@ -1,7 +1,7 @@
-# Neural_Network_Charity_Analysis
+<img src=Resources\Images\header.jpg>
 
 ## Overview of the analysis: 
-This analysis uses machine learning and neural networks on the features presented in a dataset to create a binary classifier that is capable of predicting whether applicants will be successful if funded
+This analysis uses machine learning and neural networks on the features presented in a dataset, charity_data.csv to create a binary classifier that is capable of predicting whether applicants will be successful if funded
 
 ## Results: 
 Using bulleted lists and images to support your answers, address the following questions.
